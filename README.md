@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YashasviRaghuwanshi
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning NodeJS
-- 💞️ 
 - 📫 How to reach me raghuwanshiyashasvi@gmail.com
 
 
